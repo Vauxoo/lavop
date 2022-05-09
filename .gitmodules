@@ -1,0 +1,8 @@
+[submodule "lavop"]
+	path = lavop
+	url = git@git.vauxoo.com:vauxoo/lavop.git
+	branch = 15.0
+[submodule "sh-tools"]
+	path = sh-tools
+	url = git@git.vauxoo.com:vauxoo/sh-tools.git
+	branch = 15.0
